@@ -39,12 +39,15 @@ html {
 
 body {
     text-align: center;
+    font-family: sans-serif;
+    color: white;
 }
 
-.clock {
-    color: white;
+#clock {
     font-size: 100pt;
-    font-family: sans-serif;
-    padding: 30px;
+}
+
+.subText {
+    font-size: 36pt;
 }
 
