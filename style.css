@@ -37,3 +37,14 @@ html {
   background-size: cover;
 }
 
+body {
+    text-align: center;
+}
+
+.clock {
+    color: white;
+    font-size: 100pt;
+    font-family: sans-serif;
+    padding: 30px;
+}
+
